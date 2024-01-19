@@ -1,4 +1,4 @@
-# Mina zkApp: Custom Token
+# Custom Token
 
 This template uses TypeScript.
 
